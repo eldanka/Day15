@@ -1,0 +1,84 @@
+header{
+    width: 100%;
+}
+#nav_bar{
+    float: right;
+}
+#nav_bar li{
+    display: inline-block;
+    padding: 8px;
+}  
+#nav_bar #sign_in{
+    background: #4887ef; 
+    margin-right: 25px;
+    padding: 7px 15px;
+    border-radius: 3px; 
+    font-weight: bold;
+    color: white;
+} 
+#gmail{
+    padding-right: 1vw;
+}
+#images{
+    padding-right: 1vw;
+}
+.nav-links{
+    color: #404040;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+#google_logo{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 15px;
+}
+.form-search{ 
+    position: relative;
+    text-align: center;
+}
+input{
+    border-radius: 45px 45px 45px 45px;
+    width: 40%;
+    height: 2vw;
+    font-size: 1vw;
+}
+.buttons{
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 20.7vw;
+}
+footer{
+    background-color: rgb(236, 236, 236) !important;
+    border-top: solid 2px #e4e4e4;
+    color: rgb(97, 97, 97);
+    width: 100.5%;
+    height: 50px;
+}
+footer ul  {
+    display: inline;
+    font-size: 14px;
+    padding: 3px;
+}
+footer ul {
+    float: left;
+}
+.footer-right {
+    float: right;
+}
+#Advertising{
+    padding-right: 1vw;
+}
+#Business{
+    padding-right: 1vw;
+}
+#Settings{
+    padding-left: 1vw;
+}
+#Terms{
+    padding-left: 1vw;
+}
